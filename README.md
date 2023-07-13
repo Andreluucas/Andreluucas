@@ -1,7 +1,7 @@
 ### Olá! Eu sou Andre Lucas👋
 
-- 🔭 Hoje eu trabalho com front-end
-- 🌱 Estudando Html / Css / Javascript
+- 🔭 Hoje eu trabalho com Back-end
+- 👨🏻‍💻 Software Developer / Java / Spring Boot / JavaScript
 
 <div align="center">
   <a href="https://github.com/Andreluucas">
